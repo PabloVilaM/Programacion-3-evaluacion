@@ -1,2 +1,0 @@
-Libro{unidades=1, precio=1.0, autor=1, titulo=1};
-Libro{unidades=1, precio=1.0, autor=1, titulo=1};
